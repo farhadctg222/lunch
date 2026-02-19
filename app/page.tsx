@@ -73,7 +73,7 @@ export default function Home() {
                   href={`tel:${phone}`}
                   className="w-full inline-flex items-center justify-center gap-2 bg-emerald-600 text-white py-3 rounded-xl font-semibold hover:bg-emerald-700 transition"
                 >
-                  📞 Call Coordinator: {phone}
+                  📞 Call Co-ordinator: {phone}
                 </a>
 
                 <a
@@ -85,7 +85,7 @@ export default function Home() {
               </div>
 
               <p className="mt-3 text-xs text-slate-500">
-                (সময়: সকাল টা – রাত ৯টা)
+                (সময়: সকাল ৮টা – রাত ৫টা)
               </p>
             </div>
           </div>
