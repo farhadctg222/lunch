@@ -85,7 +85,7 @@ export default function Home() {
               </div>
 
               <p className="mt-3 text-xs text-slate-500">
-                (সময়: সকাল ৮টা – রাত ৫টা)
+                (সময়: সকাল ৮টা – বিকাল ৫টা)
               </p>
             </div>
           </div>
