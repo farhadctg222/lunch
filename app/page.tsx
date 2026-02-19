@@ -11,7 +11,7 @@ export default function Home() {
   const phone = "01305573617";
 
   // ✅ 10 days from now (server time)
-  const tenDaysLater = new Date(Date.now() + 15 * 24 * 60 * 60 * 1000).toISOString();
+  const tenDaysLater = new Date(Date.now() + 18 * 24 * 60 * 60 * 1000).toISOString();
 
   return (
     <main className="min-h-screen bg-linear-to-br from-slate-50 to-emerald-50 flex items-center justify-center p-4">
